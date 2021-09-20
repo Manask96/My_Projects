@@ -1,2 +1,2 @@
-# My_Projects
-Data Analytics Projects
+# Credit-Card-Fraud-Detection
+ Data Analytics Project
